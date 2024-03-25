@@ -11,7 +11,7 @@ const RiotComponent = () => {
             <h1>Riot Games</h1>
             <img src={riotLogo} style={{ float: "right", width: "10rem" }} />
             <p>
-              Riot Games would be a dream to work at. Im not much of a league player but man do i love valorant. I've seen plenty of videos on what it's like to work at Riot Games and all of them seem to show that it's a great work enviroment. Riot has plenty of offices around the world which is cool becuase they all look so unique. To work at riot games you need experience in C++ which i have none in. So currently i do not think i have the skill set and it would be cool to learn if i were able to land a job there. Plus free riot buddy.
+              Riot Games would be a dream to work at. Im not much of a league player but man do i love valorant. I've seen plenty of videos on what it's like to work at Riot Games and all of them seem to show that it's a great work enviroment. Riot has plenty of offices around the world which is cool becuase they all look so unique. The closet office to me is in Los Angeles. To work at riot games you need experience in C++ which i have none in. So currently i do not think i have the skill set and it would be cool to learn if i were able to land a job there. Plus free riot buddy. If i were to work there i would like to be on the valorant team because it sounds the most fun.
             </p>
           </Col>
         </Row>

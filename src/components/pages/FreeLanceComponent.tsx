@@ -11,7 +11,7 @@ const FreeLanceComponent = () => {
             <h1>Free Lance</h1>
             <img src={freeLance} style={{ float: "right", width: "10rem" }} />
             <p>
-              I think free lancing would be awesome but stressful. You get to work on stuff you want to work on but it can also be very hard to make a living off of your work. Really you only need to know the languages you want to code in but you should always be learning constantly when free lancing. The freedom you will have will be like no other job but with that power comes great responsibility. You can also connect with other free lancers and work a small job for them for some quick cash. The possibilites are truly endless.
+              I think free lancing would be awesome but stressful. You get to work on stuff you want to work on but it can also be very hard to make a living off of your work. Really you only need to know the languages you want to code in but you should always be learning constantly when free lancing. The freedom you will have will be like no other job but with that power comes great responsibility. You can also connect with other free lancers and work a small job for them for some quick cash. The possibilites are truly endless. When freelancing theres basically no set destination as long as you have a laptop and internet connection you could work from anywhere.
             </p>
           </Col>
         </Row>
